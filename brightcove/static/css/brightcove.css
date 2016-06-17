@@ -1,0 +1,9 @@
+/* CSS for BrightcoveXBlock */
+
+.brightcove_block .count {
+    font-weight: bold;
+}
+
+.brightcove_block p {
+    cursor: pointer;
+}

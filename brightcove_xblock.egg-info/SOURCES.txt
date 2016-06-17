@@ -1,0 +1,12 @@
+brightcove/__init__.py
+brightcove/brightcove.py
+brightcove/static/README.txt
+brightcove/static/css/brightcove.css
+brightcove/static/html/brightcove.html
+brightcove/static/js/src/brightcove.js
+brightcove_xblock.egg-info/PKG-INFO
+brightcove_xblock.egg-info/SOURCES.txt
+brightcove_xblock.egg-info/dependency_links.txt
+brightcove_xblock.egg-info/entry_points.txt
+brightcove_xblock.egg-info/requires.txt
+brightcove_xblock.egg-info/top_level.txt
